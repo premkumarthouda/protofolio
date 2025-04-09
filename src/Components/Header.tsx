@@ -1,16 +1,7 @@
- import { DashboardSquare01Icon } from "./icons";
- import { Button } from "./ui/button";
-
- import { lazy, useState } from "react";
-
- const MobileNavbar = lazy(() => import("./MobileNavbar.tsx"));
+import { DashboardSquare01Icon } from "./icons";
+import { Button } from "./ui/button";
 
 export default function Header() {
-     const [navOpen, setNavOpen] = useState(false);
-  
-     const handleClick = () => {
-       setNavOpen(true);
-     };
   return (
     <>
       <header className="fixed left-0 right-0 top-0 z-30 h-max py-3">
