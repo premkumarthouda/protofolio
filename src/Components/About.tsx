@@ -24,7 +24,7 @@ export default function About() {
             /> */}
           </div>
           <div className="flex items-center justify-center pt-10 text-lg leading-loose tracking-wider text-white/90 lg:p-8">
-          I&apos;m a Frontend Web Developer with over 2 years of experience in designing and building user-friendly, visually engaging websites. While my professional expertise lies in Frontend Development, I have strong knowledge and skills in Full-Stack Development, proficient in technologies such as HTML, CSS, JavaScript, React, Node.js, Python, and SQL. I specialize in creating responsive, cross-platform applications and utilizing AI to develop smart, efficient solutions. Passionate about collaboration, clear communication, and innovative problem-solving, I am eager to work on exciting projects and contribute to groundbreaking advancements with talented professionals
+          I&apos;am a Frontend Web Developer with over 2 years of experience in building responsive, user-friendly, and visually engaging websites. Along with strong expertise in frontend technologies, I have solid knowledge of full-stack development using HTML, CSS, JavaScript, React, Node.js, Python, and SQL. I enjoy creating efficient, scalable solutions and collaborating with teams to deliver innovative products.
           </div>
         </div>
       </section>
